@@ -1,0 +1,15 @@
+body{
+color:rgb(205, 164, 50);
+margin: 0px;
+background:color(from color srgb r g b);
+
+}
+header {
+    border-bottom: solid;
+    padding:20px;
+    font-size: 50px;
+    color: black
+}
+section {
+    padding: 80px;
+}
